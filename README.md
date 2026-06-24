@@ -72,22 +72,6 @@ Accuracy: 79.21%
 
 This model helps businesses identify customers at risk of leaving and enables proactive retention strategies, reducing revenue loss and improving customer satisfaction.
 
-## Project Structure
-
-Customer-Churn-Prediction/
-
-├── data/
-
-├── notebooks/
-
-│   └── Customer_Churn_Prediction.ipynb
-
-├── screenshots/
-
-├── README.md
-
-└── requirements.txt
-
 ## Requirements
 
 - pandas
