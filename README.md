@@ -82,7 +82,3 @@ This model helps businesses identify customers at risk of leaving and enables pr
 - xgboost
 - openpyxl
 - jupyter
-
-## Author
-
-Akanksha Chaurasiya
